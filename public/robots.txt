@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+# Wersja poglądowa (demo). Docelowo: Sitemap: https://DOMENA/sitemap.xml

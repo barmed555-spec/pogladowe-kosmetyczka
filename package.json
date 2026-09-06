@@ -1,0 +1,8 @@
+{
+  "name": "poglądowe-kosmetyczka",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Studio Aurora (demo) — strona poglądowa (demo) WM Web Solutions",
+  "scripts": { "dev": "wrangler dev", "deploy": "wrangler deploy", "start": "node server.js" },
+  "devDependencies": { "wrangler": "^4.0.0" }
+}
